@@ -13,5 +13,5 @@ The basic procedures implemented to achieve the goals of this research are:
 7. Measure loss value
 
 a. Programming Language - Python
-b. Libreary/Packages - Numpy,Pandas,MatPlotlib,Seaborn,Skikit-learn
+b. Libreary/Packages - Numpy,Pandas,MatPlotlib,Seaborn,Scikit-learn
 c. Statistical Algorithm - Linear Regression
